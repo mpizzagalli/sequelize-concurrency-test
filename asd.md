@@ -1,4 +1,7 @@
-# sequelize-concurrency-test
+# Cuncurrency
+
+asd
+
 ## First steps
 
 #### Installing node
