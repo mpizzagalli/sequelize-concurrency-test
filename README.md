@@ -1,0 +1,1 @@
+# sequelize-concurrency-test
